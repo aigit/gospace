@@ -1,0 +1,3 @@
+[submodule "song_server"]
+	path = song_server
+	url = https://rmrb2018_gitlab.peopleapp.com/CRC_Online/song_server.git
